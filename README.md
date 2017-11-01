@@ -17,7 +17,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | DONE | Course | Learn JavaScript - [Codecademy](http://codecademy.com/courses/learn-javascript) |  X |   2017 |
 | 75% | Course |Shay Howe's [HTML/CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 | 29% | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-|  21% | Course | FCC JavaScript - [FCC JavaScript](http://freecodecamp.com/) |   |    |
+|  75% | Course | FCC JavaScript - [FCC JavaScript](http://freecodecamp.com/) |   |    |
 |   | Course | Learn Flexbox - [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
