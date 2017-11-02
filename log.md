@@ -18,9 +18,11 @@ Day: 131
 
 **Thoughts** :
 
-**Link to work** : [Julie's Testimonial Site](https://github.com/aminahthejamil/juliestestimonials)
+**Link to work** :
+[Julie's Testimonial Site](https://github.com/aminahthejamil/juliestestimonials)
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
 
-**Thing(s) learned/re-visited**: JavaScript basics; using Math.random and Math.floor to get a random number in JS; looping through an array of objects to see if the given arguments match the objects 
+**Thing(s) learned/re-visited**: JavaScript basics; using Math.random and Math.floor to get a random number in JS; looping through an array of objects to see if the given arguments match the objects
 
 ------
 
