@@ -16,8 +16,9 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | DONE | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|  X |  2017  |
 | DONE | Course | Learn JavaScript - [Codecademy](http://codecademy.com/courses/learn-javascript) |  X |   2017 |
 | DONE | Course |Shay Howe's [HTML/CSS](http://learn.shayhowe.com/html-css/) Course |  X  |  2 Nov 2017 |
+|  DONE | Course | FCC JavaScript - [FCC JavaScript](http://freecodecamp.com/) |  X |  2 Nov 2017  |
+|  0% | Course | FCC Object-Oriented JavaScript - [FCC JavaScript](http://freecodecamp.com/) |   |   |
 | 29% | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-|  75% | Course | FCC JavaScript - [FCC JavaScript](http://freecodecamp.com/) |   |    |
 |   | Course | Learn Flexbox - [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
@@ -46,6 +47,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
 |   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |    |
 |   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) |   |    |
+|
 
 
 
@@ -58,7 +60,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
 |   | Project |  Clone the Netflix interface using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
-|   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    |
+|   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    ||
 
 ## Angular
 
