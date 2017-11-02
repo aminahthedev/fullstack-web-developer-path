@@ -2,19 +2,25 @@
 
 **Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
+
+------
+
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 30 October 2017 (Today is 1 November)
+**Start Date** : 2 November 2017
 
-Day : One hundred and something
+Day: 131
 ------
-**Today's Progress** : Today I continued learning React, will set aside Angular for now. Yesterday I completed the Intro to Javascript on Codecademy, but there's another one that's the main one or something? I don't know...but I'll be completing that one too. Also, my mentor suggested that I use Code School, which I will look into.
+**Today's Progress** :
+1. Finished FCC's JavaScript course
+2. Finished Shay Howe's HTML/CSS course
+3.
 
-**Thoughts** : I'm  nervous, because I want to build things and get a job, but there's so much to learn and build...I just want to stay focused on growing as a developer and not get caught up in rabbit-holing
+**Thoughts** :
 
-**Link to work** : N/A
+**Link to work** : [Julie's Testimonial Site](https://github.com/aminahthejamil/juliestestimonials)
 
-**Thing(s) learned**: JavaScript basics, intro to React and Angular
+**Thing(s) learned/re-visited**: JavaScript basics; using Math.random and Math.floor to get a random number in JS; looping through an array of objects to see if the given arguments match the objects 
 
 ------
 
@@ -31,3 +37,19 @@ Day: 130
 **Link to work** : [Julie's Testimonial Site](https://github.com/aminahthejamil/juliestestimonials)
 
 **Thing(s) learned**: JavaScript basics
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
+**Start Date** : 30 October 2017 (Today is 1 November)
+
+Day : One hundred and something
+------
+**Today's Progress** : Today I continued learning React, will set aside Angular for now. Yesterday I completed the Intro to Javascript on Codecademy, but there's another one that's the main one or something? I don't know...but I'll be completing that one too. Also, my mentor suggested that I use Code School, which I will look into.
+
+**Thoughts** : I'm  nervous, because I want to build things and get a job, but there's so much to learn and build...I just want to stay focused on growing as a developer and not get caught up in rabbit-holing
+
+**Link to work** : N/A
+
+**Thing(s) learned**: JavaScript basics, intro to React and Angular
