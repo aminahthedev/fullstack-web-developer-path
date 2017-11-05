@@ -7,6 +7,27 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 5 November 2017
+
+Day: 133
+------
+**Today's Progress** :
+1. Finished FCC's Object-Oriented Javascript section
+
+
+**Thoughts** : Things are going well. I'm pretty nervous about starting the Algorithm section of Free Code Camp. I'm pretty decent at Ruby algorithms, but I'm not as comfortable with JS. So...this will be an ultimate test! I'm excited though, because I love a challenge and refuse to give up! Also, I'll be completing the Flexbox courses today so that I can finish my portfolio.
+
+**Link(s) to work** :
+
+
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+
+**Thing(s) learned/re-visited**: Object-oriented JavaScript
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 2 November 2017
 
 Day: 131
@@ -20,6 +41,7 @@ Day: 131
 
 **Link to work** :
 [Julie's Testimonial Site](https://github.com/aminahthejamil/juliestestimonials)
+
 [Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
 
 **Thing(s) learned/re-visited**: JavaScript basics; using Math.random and Math.floor to get a random number in JS; looping through an array of objects to see if the given arguments match the objects
