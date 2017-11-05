@@ -13,9 +13,12 @@ Day: 133
 ------
 **Today's Progress** :
 1. Finished FCC's Object-Oriented Javascript section
+2. Completed Flexbox Froggy
 
 
 **Thoughts** : Things are going well. I'm pretty nervous about starting the Algorithm section of Free Code Camp. I'm pretty decent at Ruby algorithms, but I'm not as comfortable with JS. So...this will be an ultimate test! I'm excited though, because I love a challenge and refuse to give up! Also, I'll be completing the Flexbox courses today so that I can finish my portfolio.
+
+I finished Flexbox froggy and it was a lot of fun! I watched half of Wes Bos's Flexbox videos and was able to bring over the knowledge I'd learned from Wes to Froggy and really understand what I was doing. I feel so much more confident going forward using flex box. It's basically a miracle!
 
 **Link(s) to work** :
 

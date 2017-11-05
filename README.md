@@ -17,11 +17,11 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | DONE | Course | Learn JavaScript - [Codecademy](http://codecademy.com/courses/learn-javascript) |  X |   2017 |
 | DONE | Course |Shay Howe's [HTML/CSS](http://learn.shayhowe.com/html-css/) Course |  X  |  2 Nov 2017 |
 |  DONE | Course | FCC JavaScript - [FCC JavaScript](http://freecodecamp.com/) |  X |  2 Nov 2017  |
-|  DONE | Course | FCC Object-Oriented JavaScript - [FCC JavaScript](http://freecodecamp.com/) |   |   |
+|  DONE | Course | Learn Flexbox - [Flexboxfroggy](http://flexboxfroggy.com/) |  X |  5 Nov 2017  |
+|  DONE | Course | FCC Object-Oriented JavaScript - [FCC JavaScript](http://freecodecamp.com/) | X  | 5 Nove 2017  |
 | 29% | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
+|  50% | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
 | 0% | Challenge | FCC Algorithms - [FCC Algorithms](https://www.freecodecamp.org/challenges/reverse-a-string) |   |    |
-|   | Course | Learn Flexbox - [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
-|   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
