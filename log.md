@@ -7,6 +7,29 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 6 November 2017
+
+Day: 134
+------
+**Today's Progress** :
+1. Started FCC's javascript algorithm section
+2. Worked on my FCC portfolio
+
+
+**Thoughts** :
+
+
+**Link(s) to work** :
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+[Portfolio](https://codepen.io/ajamil1211/pen/eemaZP)
+
+
+**Thing(s) learned/re-visited**: JavaScript algorithms
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 5 November 2017
 
 Day: 133
