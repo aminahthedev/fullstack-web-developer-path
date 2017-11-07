@@ -17,8 +17,11 @@ Day: 135
 
 **Thoughts** : My mentor has advised me to focus on learning React. I guess, not so much advised, but suggested. At the end of the day it's my decision, but I trust him as he is a senior software engineer and knows waaaaay more than me.
 
+I completed the tic-tac-toe tutorial from the React org and feel a teeny bit more knowledgeable about things going forward, but there is so much I need to learn.
+
 
 **Link(s) to work** :
+[Tic-Tac-Toe in React by Aminah](https://github.com/aminahthejamil/tic-tac-toe-react)
 [Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
 [Portfolio](https://codepen.io/ajamil1211/pen/eemaZP)
 
