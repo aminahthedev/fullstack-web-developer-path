@@ -19,6 +19,10 @@ Day: 135
 
 I completed the tic-tac-toe tutorial from the React org and feel a teeny bit more knowledgeable about things going forward, but there is so much I need to learn.
 
+Blasted through more of the JS algorithms today. I feel so much more confident about creating JavaScript functions and following directions to make something happen. Going from Ruby to JavaScript was scary, but it feels great! We'll see what I'll be saying once I get to the intermediate algorithm challenges though!
+
+Worked more on the portfolio as well. Things are more cohesive and not all over the place like the first two times I made a portfolio for the challenge. I'll be adding media queries over the next couple of days to make it more mobile responsive with JS and all that jazz. Squee!
+
 
 **Link(s) to work** :
 [Tic-Tac-Toe in React by Aminah](https://github.com/aminahthejamil/tic-tac-toe-react)
