@@ -7,6 +7,28 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 7 November 2017
+
+Day: 135
+------
+**Today's Progress** :
+1. React tutorial
+
+
+**Thoughts** : My mentor has advised me to focus on learning React. I guess, not so much advised, but suggested. At the end of the day it's my decision, but I trust him as he is a senior software engineer and knows waaaaay more than me.
+
+
+**Link(s) to work** :
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+[Portfolio](https://codepen.io/ajamil1211/pen/eemaZP)
+
+
+**Thing(s) learned/re-visited**: ES2015 let, const, arrow functions, classes
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 6 November 2017
 
 Day: 134
@@ -16,7 +38,7 @@ Day: 134
 2. Worked on my FCC portfolio
 
 
-**Thoughts** :
+**Thoughts** : I didn't really have any thoughts, just pumped to start the algorithm section and be impressed with how far I've come. When I started FCC in January, I wouldn't have been able to make it this far without having gone to Dev Boot Camp. I've learned so much about coding and it shows.
 
 
 **Link(s) to work** :
