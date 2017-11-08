@@ -21,11 +21,10 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |  DONE | Course | FCC Object-Oriented JavaScript - [FCC JavaScript](http://freecodecamp.com/) | X  | 5 Nov 2017  |
 |  50% | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
 | 49% | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-| 45% | Challenge | FCC Algorithms - [FCC Algorithms](https://www.freecodecamp.org/challenges/reverse-a-string) |   |    |
+| 45% | Challenge | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 | 25% | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
-|   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Make a todo list webapp |   |    |
