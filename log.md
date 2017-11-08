@@ -7,6 +7,29 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 8 November 2017
+
+Day: 136
+------
+**Today's Progress** :
+1. React Codecademy
+
+
+**Thoughts** : Today has been a bit busy, but I was able to work more on my Beautiful, Meaningful project that I came up with while still in DBC. It's looking better and better and working nicely. I'm also a little distracted, perhaps because of the gorgeous weather in Chicago, but I've work to do!
+
+I looked over Codecademy's React course a little bit this morning, going back over JSX so that I have no misunderstandings. It's amazing how much I picked up the second time around! I see that's going to be a new thing for me, looking at things 2 or 3 times after the initial look-over. 
+
+
+**Link(s) to work** :
+[Julie's Testimonial Site](https://github.com/aminahthejamil/juliestestimonials)
+
+
+**Thing(s) learned/re-visited**: React JSX
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 7 November 2017
 
 Day: 135
