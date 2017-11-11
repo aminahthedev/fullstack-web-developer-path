@@ -1,7 +1,72 @@
-# 💯 100 Days Of Code - Log
+# Code Log
 
-**Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
+**Start Date** : 11 November 2017
+
+Day: 139
+------
+**Today's Progress** :
+1. React Codecademy
+
+
+**Thoughts** : Another day of mental exhaustion, I have no idea where it's coming from. Maybe the weather...🤷🏼‍
+
+
+**Link(s) to work** :
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+
+
+**Thing(s) learned/re-visited**: React JSX
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
+**Start Date** : 10 November 2017
+
+Day: 138
+------
+**Today's Progress** :
+1. React Codecademy
+2. FCC JavaScript Algorithms
+
+
+**Thoughts** :
+
+
+**Link(s) to work** :
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+
+
+**Thing(s) learned/re-visited**: React JSX, algorithms
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
+**Start Date** : 9 November 2017
+
+Day: 137
+------
+**Today's Progress** :
+1. React Codecademy
+
+
+**Thoughts** : I have been extremely unmotivated today. These are the kinds of days where I know that self-care is extremely important and taking care of my body will ultimately help me be a better programmer. So I've taking it easy, though I did complete another section Codecademy's React course.
+
+The only thing my mind can wrap around is working on projects, so that's what I've been doing.
+
+
+**Link(s) to work** :
+[Julie's Testimonial Site](https://github.com/aminahthejamil/juliestestimonials)
+
+
+**Thing(s) learned/re-visited**: React JSX
 
 ------
 
@@ -17,7 +82,7 @@ Day: 136
 
 **Thoughts** : Today has been a bit busy, but I was able to work more on my Beautiful, Meaningful project that I came up with while still in DBC. It's looking better and better and working nicely. I'm also a little distracted, perhaps because of the gorgeous weather in Chicago, but I've work to do!
 
-I looked over Codecademy's React course a little bit this morning, going back over JSX so that I have no misunderstandings. It's amazing how much I picked up the second time around! I see that's going to be a new thing for me, looking at things 2 or 3 times after the initial look-over. 
+I looked over Codecademy's React course a little bit this morning, going back over JSX so that I have no misunderstandings. It's amazing how much I picked up the second time around! I see that's going to be a new thing for me, looking at things 2 or 3 times after the initial look-over.
 
 
 **Link(s) to work** :
