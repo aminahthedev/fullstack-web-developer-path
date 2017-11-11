@@ -6,6 +6,49 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 11 November 2017
+
+Day: 139
+------
+**Today's Progress** :
+1. React Codecademy
+
+
+**Thoughts** : Another day of mental exhaustion, I have no idea where it's coming from. Maybe the weather...🤷🏼‍
+
+
+**Link(s) to work** :
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+
+
+**Thing(s) learned/re-visited**: React JSX
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
+**Start Date** : 10 November 2017
+
+Day: 138
+------
+**Today's Progress** :
+1. React Codecademy
+2. FCC JavaScript Algorithms
+
+
+**Thoughts** :
+
+
+**Link(s) to work** :
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+
+
+**Thing(s) learned/re-visited**: React JSX, algorithms
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 9 November 2017
 
 Day: 137

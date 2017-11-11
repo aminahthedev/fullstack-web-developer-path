@@ -55,7 +55,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-| 50%  | Course | Learn React - [React JS Part I](http://codecademy.com)  |   |    |
+| 66%  | Course | Learn React - [React JS Part I](http://codecademy.com)  |   |    |
 |   | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) (Paid) OR [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
 |   | Course | Learn Redux - [Redux course - Wes Bos](https://learnredux.com/) |   |    |
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
