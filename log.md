@@ -6,6 +6,27 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 12 November 2017
+
+Day: 140
+------
+**Today's Progress** :
+1. FCC Javascript Algorithms
+
+
+**Thoughts** : Went back to the algorithms. Accidentally completed one of the intermediate algorithms, but that was pretty cool because it was relatively easy. I'll be working on projects instead of focusing on learning new things as my brain can't seem to retain anything at the moment.
+
+
+**Link(s) to work** :
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+
+
+**Thing(s) learned/re-visited**: React JSX
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 11 November 2017
 
 Day: 139
