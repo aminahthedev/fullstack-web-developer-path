@@ -6,6 +6,25 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 13 November 2017
+
+Day: 141
+------
+**Today's Progress** :
+1. FCC Javascript Algorithms
+
+
+**Thoughts** : Today's agenda is to finish the FCC intermediate algorithms and continue with Codecademy's Part I of the Reactjs course. Hopefully I will finish that one as well and be able to start on the second half.
+
+**Link(s) to work** :
+[Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+
+
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 12 November 2017
 
 Day: 140
@@ -16,9 +35,12 @@ Day: 140
 
 **Thoughts** : Went back to the algorithms. Accidentally completed one of the intermediate algorithms, but that was pretty cool because it was relatively easy. I'll be working on projects instead of focusing on learning new things as my brain can't seem to retain anything at the moment.
 
+I worked on Julie's site and attempted to deploy it to Heroku. That was madness, I was successful to a certain extent; I can't really do anything because of the database, I think. I need to find a tutorial on how to setup the database. We shall see how that works out.
+
 
 **Link(s) to work** :
 [Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
+[Julie's Testimonial Site](https://github.com/aminahthejamil/juliestestimonials)
 
 
 **Thing(s) learned/re-visited**: React JSX
