@@ -11,8 +11,8 @@
 Day: 141
 ------
 **Today's Progress** :
-1. FCC Javascript Algorithms
-
+1. FCC Javascript Algorithms (FINISHED)
+2. Codecademy React JS
 
 **Thoughts** : Today's agenda is to finish the FCC intermediate algorithms and continue with Codecademy's Part I of the Reactjs course. Hopefully I will finish that one as well and be able to start on the second half.
 
