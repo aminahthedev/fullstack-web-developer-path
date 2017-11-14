@@ -6,6 +6,23 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 14 November 2017
+
+Day: 142
+------
+**Today's Progress** :
+1. Codecademy React JS
+
+**Thoughts** : So I wasn't able to get to the second half of the React JS course yesterday, but I went back and re-learned some things I wasn't fully grasping and I feel so much better about it going forward. I also want to make the tic tac toe app responsive, so I'll be doing that at some point today.
+
+**Link(s) to work** :
+[Tic Tac Toe](http://brash-low.surge.sh/)
+
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 13 November 2017
 
 Day: 141
@@ -13,13 +30,14 @@ Day: 141
 **Today's Progress** :
 1. FCC Javascript Algorithms (FINISHED)
 2. Codecademy React JS
+3. Sean Groff's React Challenge (2/5)
 
 **Thoughts** : Today's agenda is to finish the FCC intermediate algorithms and continue with Codecademy's Part I of the Reactjs course. Hopefully I will finish that one as well and be able to start on the second half.
 
 **Link(s) to work** :
 [Aminah's FreeCodeCamp Summary Profile](https://www.freecodecamp.org/aminahthejamil)
-
-
+[Challenge 1 Codepen](https://codepen.io/ajamil1211/pen/dZRRqR)
+[Challenge 2 Codepen](https://codepen.io/ajamil1211/pen/VrKBwE)
 
 ------
 
