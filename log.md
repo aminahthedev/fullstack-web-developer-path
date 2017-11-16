@@ -6,6 +6,22 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 15 November 2017
+
+Day: 143
+------
+**Today's Progress** :
+1. Codecademy React JS
+
+**Thoughts** : Yesterday was really busy, so I was only able to take a few notes on React JS state. That is all.
+
+**Link(s) to work** :
+
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 14 November 2017
 
 Day: 142
