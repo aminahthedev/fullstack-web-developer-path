@@ -6,6 +6,25 @@
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
+**Start Date** : 23 December 2017
+
+Day: 181
+------
+**Today's Progress** :
+1. FreeCodeCamp jQuery
+
+**Thoughts** : These last few weeks have been spent job hunting, getting my portfolio in tip top shape and figuring out who I am as a developer. The days of chasing after multiple frameworks is over. I realized that I was beginning to feel overwhelmed trying to learn too many things that paralleled each other at the same time. Now, I'm focusing on growing as a Rails developer and plan to build my knowledge of React on top of that.
+
+Beyond that, though I hadn't been updating my log, I have coded at least once a day since my hiatus. 
+
+**Link(s) to work** :
+[Aminah's Portfolio](http://www.aminahthedev.com/)
+
+
+------
+
+**Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
+
 **Start Date** : 15 November 2017
 
 Day: 143

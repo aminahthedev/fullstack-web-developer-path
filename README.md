@@ -19,13 +19,11 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |  DONE | Course | FCC JavaScript - [FCC JavaScript](http://freecodecamp.com/) |  X |  2 Nov 2017  |
 |  DONE | Course | Learn Flexbox - [Flexboxfroggy](http://flexboxfroggy.com/) |  X |  5 Nov 2017  |
 |  DONE | Course | FCC Object-Oriented JavaScript - [FCC JavaScript](http://freecodecamp.com/) | X  | 5 Nov 2017  |
+| DONE| Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |  X |  20 Dec 2017  |
+| DONE | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass and CSS Grid | X |  20 Dec 2017  |
 | DONE | Challenge | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) | X  |  13 Nov 2017  |
 |  50% | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
-| 49% | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-| 25% | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
-|   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
-|  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Make a todo list webapp |   |    |
 |   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
@@ -41,6 +39,8 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
+|  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
+|   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
 |   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
