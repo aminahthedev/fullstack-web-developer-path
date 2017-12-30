@@ -4,9 +4,29 @@
 
 ------
 
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 29 December 2017
+
+Day: 187
+------
+**Today's Progress** :
+1. FreeCodeCamp jQuery & JSON
+2. FileCabinet app
+3. The Complete Web Developer 2018
+
+**Thoughts** : I keep meaning to update this thing because it really keeps me on track, but things just keep happening and I'm like aaagggghhh but whatevs. I code everyday so I guess that's what matters. I've been working on some Udemy courses as well as FreeCodeCamp.
+
+I also plan on restarting my 100 days of code challenge on January 1st. Yee.
+
+**Link(s) to work** :
+[FileCabinet](https://github.com/aminahthejamil/file_cabinet)
+
+------
+
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 23 December 2017
+**Date** : 23 December 2017
 
 Day: 181
 ------
@@ -15,7 +35,7 @@ Day: 181
 
 **Thoughts** : These last few weeks have been spent job hunting, getting my portfolio in tip top shape and figuring out who I am as a developer. The days of chasing after multiple frameworks is over. I realized that I was beginning to feel overwhelmed trying to learn too many things that paralleled each other at the same time. Now, I'm focusing on growing as a Rails developer and plan to build my knowledge of React on top of that.
 
-Beyond that, though I hadn't been updating my log, I have coded at least once a day since my hiatus. 
+Beyond that, though I hadn't been updating my log, I have coded at least once a day since my hiatus.
 
 **Link(s) to work** :
 [Aminah's Portfolio](http://www.aminahthedev.com/)
@@ -25,7 +45,7 @@ Beyond that, though I hadn't been updating my log, I have coded at least once a 
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 15 November 2017
+**Date** : 15 November 2017
 
 Day: 143
 ------
@@ -41,7 +61,7 @@ Day: 143
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 14 November 2017
+**Date** : 14 November 2017
 
 Day: 142
 ------
@@ -58,7 +78,7 @@ Day: 142
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 13 November 2017
+**Date** : 13 November 2017
 
 Day: 141
 ------
@@ -78,7 +98,7 @@ Day: 141
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 12 November 2017
+**Date** : 12 November 2017
 
 Day: 140
 ------
@@ -102,7 +122,7 @@ I worked on Julie's site and attempted to deploy it to Heroku. That was madness,
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 11 November 2017
+**Date** : 11 November 2017
 
 Day: 139
 ------
@@ -123,7 +143,7 @@ Day: 139
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 10 November 2017
+**Date** : 10 November 2017
 
 Day: 138
 ------
@@ -145,7 +165,7 @@ Day: 138
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 9 November 2017
+**Date** : 9 November 2017
 
 Day: 137
 ------
@@ -168,7 +188,7 @@ The only thing my mind can wrap around is working on projects, so that's what I'
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 8 November 2017
+**Date** : 8 November 2017
 
 Day: 136
 ------
@@ -191,7 +211,7 @@ I looked over Codecademy's React course a little bit this morning, going back ov
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 7 November 2017
+**Date** : 7 November 2017
 
 Day: 135
 ------
@@ -220,7 +240,7 @@ Worked more on the portfolio as well. Things are more cohesive and not all over 
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 6 November 2017
+**Date** : 6 November 2017
 
 Day: 134
 ------
@@ -243,7 +263,7 @@ Day: 134
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 5 November 2017
+**Date** : 5 November 2017
 
 Day: 133
 ------
@@ -267,7 +287,7 @@ I finished Flexbox froggy and it was a lot of fun! I watched half of Wes Bos's F
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 2 November 2017
+**Date** : 2 November 2017
 
 Day: 131
 ------
@@ -289,7 +309,7 @@ Day: 131
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 1 November 2017
+**Date** : 1 November 2017
 
 Day: 130
 ------
@@ -305,7 +325,7 @@ Day: 130
 
 **Target** : ***Learn and Code for at least 5 hours everyday for 30 days***
 
-**Start Date** : 30 October 2017 (Today is 1 November)
+**Date** : 30 October 2017 (Today is 1 November)
 
 Day : One hundred and something
 ------
