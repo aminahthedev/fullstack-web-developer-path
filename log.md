@@ -6,6 +6,44 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 1 January 2018
+
+Day: 1
+------
+**Today's Progress** :
+1. FileCabinet
+
+**Thoughts** : Today I decided to start my 100DaysofCode over from Day 1, but from where I'm currently at on my journey.
+
+With that said, today was rough because I had an amazing NYE celebration and I was in bed all day (haha). But, right before bed time, I decided to fumble around with some HAML and background image with text overlay issue I was having and it works now! I'm thinking I must have had a cache issue because I used the exact same CSS code that I tried before and it didn't work then, but it works now so that's my queue to go to bed. :-D
+
+I'll be writing a blog post about this. ***Must REMEMBER!***
+
+**Link(s) to work** :
+[FileCabinet](https://github.com/aminahthejamil/file_cabinet)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 29 December 2017
 
 Day: 187
