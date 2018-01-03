@@ -6,6 +6,65 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 3 January 2018
+
+Day: 2
+------
+**Today's Progress** :
+1. FileCabinet
+
+**Thoughts** : Yesterday was full of errands so no coding happened.
+Today I'm starting the random quote generator, and I just learned that you set a function to a button by giving it the attribute *onClick*. Nice.
+
+Also learned that variable height AKA *vh* is great for mobile-first websites. I'm down with that!
+
+
+
+**Link(s) to work** :
+[Random Quote Generator](https://github.com/aminahthejamil/quote_generator)
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 1 January 2018
+
+Day: 1
+------
+**Today's Progress** :
+1. FileCabinet
+
+**Thoughts** : Today I decided to start my 100DaysofCode over from Day 1, but from where I'm currently at on my journey.
+
+With that said, today was rough because I had an amazing NYE celebration and I was in bed all day (haha). But, right before bed time, I decided to fumble around with some HAML and background image with text overlay issue I was having and it works now! I'm thinking I must have had a cache issue because I used the exact same CSS code that I tried before and it didn't work then, but it works now so that's my queue to go to bed. :-D
+
+I'll be writing a blog post about this. ***Must REMEMBER!***
+
+**Link(s) to work** :
+[FileCabinet](https://github.com/aminahthejamil/file_cabinet)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 29 December 2017
 
 Day: 187
