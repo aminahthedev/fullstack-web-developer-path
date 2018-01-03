@@ -11,7 +11,7 @@
 Day: 2
 ------
 **Today's Progress** :
-1. FileCabinet
+1. Random Quote Generator
 
 **Thoughts** : Yesterday was full of errands so no coding happened.
 Today I'm starting the random quote generator, and I just learned that you set a function to a button by giving it the attribute *onClick*. Nice.
