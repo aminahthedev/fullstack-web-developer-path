@@ -6,6 +6,27 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 3 January 2018
+
+Day: 2
+------
+**Today's Progress** :
+1. FileCabinet
+
+**Thoughts** : Yesterday was full of errands so no coding happened.
+Today I'm starting the random quote generator, and I just learned that you set a function to a button by giving it the attribute *onClick*. Nice.
+
+Also learned that variable height AKA *vh* is great for mobile-first websites. I'm down with that!
+
+
+
+**Link(s) to work** :
+[Random Quote Generator](https://github.com/aminahthejamil/quote_generator)
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 1 January 2018
 
 Day: 1
