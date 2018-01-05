@@ -6,6 +6,33 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 4 January 2018
+
+Day: 3
+------
+**Today's Progress** :
+1. Random Quote Generator
+2. FreeCodeCamp jQuery section
+
+**Thoughts** : Today I had to add a tweeting capability for the RQG, which was a success. Yusss.
+The jQuery was a little dusty so I'll be going back through FreeCodeCamp's jQuery section.  
+
+The next projects I'll be finishing up this weekend:
+- Weather app
+- Amber's MUA Site
+- Separating the pages of my site and completing the blog
+
+
+
+
+**Link(s) to work** :
+[Random Quote Generator](https://github.com/aminahthejamil/quote_generator)
+[Random Quote Generator Site](http://ossified-roof.surge.sh)
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 3 January 2018
 
 Day: 2
