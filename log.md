@@ -6,6 +6,48 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 6 January 2018
+
+Day: 5
+------
+**Today's Progress** :
+1. ASMUA as React.js app
+
+**Thoughts** : Today's project is to turn ASMUA into a react app
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 5 January 2018
+
+Day: 4
+------
+**Today's Progress** :
+1. Rails Tutorial
+2. Local Weather App
+3. ASMUA
+4. My portfolio site
+
+**Thoughts** : I woke up super early this morning and started working on the Hartl Rails Tutorial and RoR on the Odin Project. As much as I know, there's no harm in going back and learning more and filling in any gaps in knowledge that I might have.
+
+Later in the morning started the Local Weather App for FreeCodeCamp.
+
+Got to work on Amber's MUA site. It's looking pretty good so far!
+
+
+
+**Link(s) to work** :
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 4 January 2018
 
 Day: 3
