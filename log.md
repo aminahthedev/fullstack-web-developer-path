@@ -11,9 +11,11 @@
 Day: 5
 ------
 **Today's Progress** :
-1. ASMUA as React.js app
+1. ASMUA as React.js app (not)
 
-**Thoughts** : Today's project is to turn ASMUA into a react app
+**Thoughts** : Today's project is to turn ASMUA into a react app.
+
+Okay, so update: the react app didn't pan through. The time constraint is too large, but it will be a future project that I endeavor to at some point when I have more time. I worked on ASMUA all day yesterday, as I need it done by monday, and it's almost finished so I can start working on other things.
 
 
 
