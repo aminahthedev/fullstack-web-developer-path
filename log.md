@@ -6,6 +6,25 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 7 January 2018
+
+Day: 6
+------
+**Today's Progress** :
+1. ASMUA
+
+**Thoughts** : Today I will HOPEFULLY be able to finish the site and work on other things. Like Fatimah's Blog. URGH!!! Lazy days.
+
+I still have a little bit more to do on ASMUA, but the majority of it is done. Yes.
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 6 January 2018
 
 Day: 5
