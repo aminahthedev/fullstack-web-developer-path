@@ -6,6 +6,23 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 8 January 2018
+
+Day: 7
+------
+**Today's Progress** :
+1. ASMUA
+
+**Thoughts** : Finanlly finished ASMUA today. There are a few fixes that need to be made, but I'll save those for another time.
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 7 January 2018
 
 Day: 6
