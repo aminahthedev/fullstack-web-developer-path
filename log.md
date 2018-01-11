@@ -6,6 +6,24 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 10 January 2018
+
+Day: 8 & 9
+------
+**Today's Progress** :
+
+**Thoughts** : Yesterday was spent mostly doing a writeup for a potential job and doing another interview. I rehashed how ASMUA for more modern design.
+
+Today I received the news that I was accepted into the Google scholars udacity program, which isn't really the thing until I finish this first part and then I'll be accepted into the nanodegree program. So today was spent working on that stuff and working on React. It's been a long and dreary day.
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 8 January 2018
 
 Day: 7
@@ -13,7 +31,7 @@ Day: 7
 **Today's Progress** :
 1. ASMUA
 
-**Thoughts** : Finanlly finished ASMUA today. There are a few fixes that need to be made, but I'll save those for another time.
+**Thoughts** : Finally finished ASMUA today. There are a few fixes that need to be made, but I'll save those for another time.
 
 
 
