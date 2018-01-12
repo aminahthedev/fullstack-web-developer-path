@@ -6,6 +6,22 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 11 January 2018
+
+Day: 10
+------
+**Today's Progress** :
+
+**Thoughts** : Reactifying Cuisine Lab by making the Rails an API that send JSON data to a react frontend. Yee.
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 10 January 2018
 
 Day: 8 & 9
