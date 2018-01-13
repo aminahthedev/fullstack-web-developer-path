@@ -6,6 +6,21 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 12 January 2018
+
+Day: 11
+------
+**Today's Progress** : Pulling out my hair at all the resources. I need to chill and choose SOMETHING. (insert exasperation) It's going to be okay. Today I will turn my javascript projects into react. Fingers crossed I don't get lost in the sauce.
+
+Successfully completed a project for the React course with Maximillian on Udemy. I must say that I am uber proud of myself.
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 11 January 2018
 
 Day: 10
