@@ -6,6 +6,23 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 13 January 2018
+
+Day: 12
+------
+**Today's Progress** : Turning the random quote generator into a react app. This should be fun and interesting using what I learned yesterday to make it happen! I'm excited.
+
+I successfully built and launched my Random Quote Generator in React! It was a tedious endeavor, but it happened and is in the world.
+
+
+**Link(s) to work**:
+
+[Random Quote Generator]("http://wealthy-able.surge.sh")
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 12 January 2018
 
 Day: 11
