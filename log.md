@@ -6,6 +6,152 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 13 January 2018
+
+Day: 12
+------
+**Today's Progress** : Turning the random quote generator into a react app. This should be fun and interesting using what I learned yesterday to make it happen! I'm excited.
+
+I successfully built and launched my Random Quote Generator in React! It was a tedious endeavor, but it happened and is in the world.
+
+
+**Link(s) to work**:
+
+[Random Quote Generator]("http://wealthy-able.surge.sh")
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 12 January 2018
+
+Day: 11
+------
+**Today's Progress** : Pulling out my hair at all the resources. I need to chill and choose SOMETHING. (insert exasperation) It's going to be okay. Today I will turn my javascript projects into react. Fingers crossed I don't get lost in the sauce.
+
+Successfully completed a project for the React course with Maximillian on Udemy. I must say that I am uber proud of myself.
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 11 January 2018
+
+Day: 10
+------
+**Today's Progress** :
+
+**Thoughts** : Reactifying Cuisine Lab by making the Rails an API that send JSON data to a react frontend. Yee.
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 10 January 2018
+
+Day: 8 & 9
+------
+**Today's Progress** :
+
+**Thoughts** : Yesterday was spent mostly doing a writeup for a potential job and doing another interview. I rehashed how ASMUA for more modern design.
+
+Today I received the news that I was accepted into the Google scholars udacity program, which isn't really the thing until I finish this first part and then I'll be accepted into the nanodegree program. So today was spent working on that stuff and working on React. It's been a long and dreary day.
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 8 January 2018
+
+Day: 7
+------
+**Today's Progress** :
+1. ASMUA
+
+**Thoughts** : Finally finished ASMUA today. There are a few fixes that need to be made, but I'll save those for another time.
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 7 January 2018
+
+Day: 6
+------
+**Today's Progress** :
+1. ASMUA
+
+**Thoughts** : Today I will HOPEFULLY be able to finish the site and work on other things. Like Fatimah's Blog. URGH!!! Lazy days.
+
+I still have a little bit more to do on ASMUA, but the majority of it is done. Yes.
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 6 January 2018
+
+Day: 5
+------
+**Today's Progress** :
+1. ASMUA as React.js app (not)
+
+**Thoughts** : Today's project is to turn ASMUA into a react app.
+
+Okay, so update: the react app didn't pan through. The time constraint is too large, but it will be a future project that I endeavor to at some point when I have more time. I worked on ASMUA all day yesterday, as I need it done by monday, and it's almost finished so I can start working on other things...
+
+
+
+**Link(s) to work** :
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 5 January 2018
+
+Day: 4
+------
+**Today's Progress** :
+1. Rails Tutorial
+2. Local Weather App
+3. ASMUA
+4. My portfolio site
+
+**Thoughts** : I woke up super early this morning and started working on the Hartl Rails Tutorial and RoR on the Odin Project. As much as I know, there's no harm in going back and learning more and filling in any gaps in knowledge that I might have.
+
+Later in the morning started the Local Weather App for FreeCodeCamp.
+
+Got to work on Amber's MUA site. It's looking pretty good so far!
+
+
+
+**Link(s) to work** :
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 4 January 2018
 
 Day: 3
