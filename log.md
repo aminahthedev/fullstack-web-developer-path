@@ -6,6 +6,30 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 14 January 2018
+
+Day: 13
+------
+**Today's Progress** :
+1. Udacity - 2 lessons
+2. CWD - 2 lessons
+3. Animations to RQG
+
+Today will be spent catching up on what I missed out on yesterday from finishing that RQG. At some point I also want to add some animations to the RQG to make more interactive.
+
+Completed all of the Udacity lessons I set out for today.
+
+Pushed the random quote generate to my portfolio. I have so much to create and do, I'm so tired. This feels so daunting, but I know that I am capable and will get through it.
+
+
+**Link(s) to work**:
+[My Portfolio]("http://www.aminahthedev.com")
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 13 January 2018
 
 Day: 12
