@@ -6,6 +6,62 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 17 January 2018
+
+Day: 16
+------
+**Today's Progress** :
+
+
+
+**Thoughts:**
+Yesterday was rough. I got really discouraged and tired for absolutely no reason. Anyway, today the grind is back on and I'm really excited to accomplish some React.js things
+
+
+**Link(s) to work**:
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 16 January 2018
+
+Day: 15
+------
+**Today's Progress** :
+1. Udacity - 2 lessons
+
+
+There is a lot to do today and I have rehearsals, so fingers crossed that much gets accomplished. I realized yesterday that my brain doesn't seem to work well on programming before 10 AM, so I'll reserve project management stuff for the early morning and coding closer to mid-morning.
+
+
+**Link(s) to work**:
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 15 January 2018
+
+Day: 14
+------
+**Today's Progress** :
+1. Udacity - 2.5 lessons
+2. CWD - 2 lessons
+
+
+Written in retro: I accomplished a lot yesterday. I even came up with a great idea that'll soon come to fruition. My little baby idea. Weeeee!
+
+I started on FZ's blog and updated my own portfolio again.
+
+
+**Link(s) to work**:
+[My Portfolio]("http://www.aminahthedev.com")
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 14 January 2018
 
 Day: 13
