@@ -6,6 +6,31 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 20 January 2018
+
+Day: 17, 18, 19
+------
+**Today's Progress** :
+1. Udacity DOM
+2. Udemy CWD
+3. ASMUA
+4. fDG
+
+
+**Thoughts:**
+I've been really discombobulated with trying to get fDG off the ground for the pre-launch on monday. There are still a few things I need to do, but overall, I'm done for the most part.
+
+Learning has been taking place, just not logging it well. The nights tend to be all over the place; yesterday I completed the DOM section on Udacity. Today I completed the JavaScript section on Udemy CWD and now will be working on ASMUA again to turn it into a SPA instead of being overwhelmed by trying to make it a MPA. Should be fun!
+
+
+**Link(s) to work**:
+[fDG](http://fitdevgirls.com)
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 17 January 2018
 
 Day: 16
