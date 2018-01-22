@@ -6,6 +6,31 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 22 January 2018
+
+Day: 20, 21
+------
+**Today's Progress** :
+1. Udacity DOM
+2. Udemy CWD
+
+**Thoughts:**
+Today I had an interview for a temp freelance job. I'm not sure how I did, but I guess we shall see.
+
+I still have a lot to do and am sort of reeling from the interview, but I need to stay focused and get done what I have on my to do list. This is absolutely essential as a freelance developer, staying on task.
+
+Today I want to finish the Udacity course and get more of the CWD course done. I also want to teach myself how to create a react view with rails backend blog for one of my clients. That is my number 1 priority actually. And eventually transfer ASMUA to a React app. It's so exciting to be able to use these technologies to create something awesome.
+
+Oh! Biggest excitement of the day, I did the fDG pre-launch, but still have more to do. There is so much to create and fix for this project, it's not even funny. But it's happening and that's all that matters.
+
+**Link(s) to work**:
+
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 20 January 2018
 
 Day: 17, 18, 19
