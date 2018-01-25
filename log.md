@@ -6,6 +6,25 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 24 January 2018
+
+Day: 22, 23
+------
+**Today's Progress** :
+1. My site
+
+**Thoughts:**
+So I got the freelance job! I've been working hard trying to get my blog up so I can add those interview questions, and I have successfully finished (for the most part; still got some styling I want to add, but functionality is pretty much complete)! I added the hamburgler navigation as well, so things are progressing very smoothly.
+
+Tomorrow I'll talk to my mentor and watch some VueJS videos to get up to speed on things and then maybe work on the CWD course. I'm excited and nervous but mostly really, really relieved.
+
+**Link(s) to work**:
+[My Site](http://www.aminahthedev.com)
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 22 January 2018
 
 Day: 20, 21
