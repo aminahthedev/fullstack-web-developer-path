@@ -6,6 +6,27 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 26 January 2018
+
+Day: 24, 25
+------
+**Today's Progress** :
+1. My site
+
+**Thoughts:**
+So I didn't get the freelance job! They emailed me the day I was supposed to start and told me they gave the position to someone internal. Wow what a disappointment. It's a lesson in not allowing the decisions of others to affect my view of my worth as a developer. And it won't.
+
+Last night I finally completed the main functionality of my blog, though I haven't deployed it yet. There are a few tweaks I want to make before official deployment.
+
+Today there will be a lot of getting my head back in the game. Despite trying not to let the loss effect me, I got a bit discombobulated yesterday because of the news. Because they were using Vue.js, I'd set a plan to learn that. Now since there's no reason to, I need to figure out my next steps. Shouldn't be too hard. Beefing up the portfolio is definitely #1.
+
+**Link(s) to work**:
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 24 January 2018
 
 Day: 22, 23
@@ -310,7 +331,7 @@ Day: 3
 2. FreeCodeCamp jQuery section
 
 **Thoughts** : Today I had to add a tweeting capability for the RQG, which was a success. Yusss.
-The jQuery was a little dusty so I'll be going back through FreeCodeCamp's jQuery section.  
+The jQuery was a little dusty so I'll be going back through FreeCodeCamp's jQuery section.
 
 The next projects I'll be finishing up this weekend:
 - Weather app
