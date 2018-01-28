@@ -6,6 +6,26 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 28 January 2018
+
+Day: 26, 27
+------
+**Today's Progress** :
+1. My site
+2. Fatimah's Blog
+
+**Thoughts:**
+Yesterday was filled mostly with debugging my site after deploying it to heroku. For some reason it wasn't migrating the author_id changes I'd made to the post migration file. Eventually I got it working again and the blog is officially up and working on the site.
+
+Today I'm probably just going to focus on what I know and just make Fatimah's blog in rails and not muddle around with making the frontend in react. I don't care what company's want anymore, I'm wasting too much time trying to do all this stuff and not learning what I need to learn for my own personal growth and getting my portfolio A-10.
+
+**Link(s) to work**:
+[Aminah the Dev](http://www.aminahthedev.com)
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 26 January 2018
 
 Day: 24, 25
@@ -21,6 +41,8 @@ Last night I finally completed the main functionality of my blog, though I haven
 Today there will be a lot of getting my head back in the game. Despite trying not to let the loss effect me, I got a bit discombobulated yesterday because of the news. Because they were using Vue.js, I'd set a plan to learn that. Now since there's no reason to, I need to figure out my next steps. Shouldn't be too hard. Beefing up the portfolio is definitely #1.
 
 **Link(s) to work**:
+
+
 
 
 ------
