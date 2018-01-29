@@ -6,6 +6,25 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 29 January 2018
+
+Day: 28
+------
+**Today's Progress** :
+1. Fatimah's Blog
+2. CWD section 11
+
+**Thoughts:**
+Today was full of testing. TDD, BDD, my brain hurts. But, the models are good to go. The controllers are up next. It's interesting working from a testing stand point instead of just throwing a website together. I like it and know things will move faster once I get used to it and learn how to test properly and with whichever tools (requests vs controllers; capybara vs rspec; etc)
+
+The rest of the night I'll be completing the CWD sections.
+
+**Link(s) to work**:
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 28 January 2018
 
 Day: 26, 27
