@@ -6,6 +6,26 @@
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
+**Date** : 30 January 2018
+
+Day: 28
+------
+**Today's Progress** :
+1. CWD section 11
+
+**Thoughts:**
+(I Love You Noah)
+
+Today not too much coding happened for obvious reasons, but I did gain some traction on CWD section 11. DOM manipluation is interesting and I'm determined to get under the hood and make something fun and interesting. Last night I finished the Ruby SoloLearn course and am aiming to redo the whole JavaScript one and then move on to Java (for mobile app dev).
+
+Things are moving along slowly, but I'm confident that they're going to be picking up speed soon.
+
+**Link(s) to work**:
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
 **Date** : 29 January 2018
 
 Day: 28
