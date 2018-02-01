@@ -2,13 +2,51 @@
 
 ***
 
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 1 February 2018
+
+Day: 31
+------
+**Today's Progress** :
+1. Blog post about Ruby closures
+2. Add categories to mah blog
+
+**Thoughts:**
+
+Today I had an interview and got to speak with my mentor so not much coding happened...until now. I'm going through HackerRank, doing some algorithms, and I came upon closures in Ruby. When we learned about blocks and methods, we were told that they were apart of a bigger collective called "closures". Now I know and will be writing a blog post about it.
+
+This means that I now need to add categories to muh blog so I can separate the concerns and topics that I'm writing about. Fun project! Legit!
+
+**Link(s) to work**:
+
+
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 31 January 2018
+
+Day: 30
+------
+**Today's Progress** :
+1. Blog post about Promises
+
+**Thoughts:**
+Today is a blah day. I decided to write the first post on my AtD blog. That was fun. But now I don't really feel like looking at code, even though I really need to.
+
+**Link(s) to work**:
+
 ------
 
 **Target** : ***Code Everyday of My Life While Learning and Blogging About It***
 
 **Date** : 30 January 2018
 
-Day: 28
+Day: 29
 ------
 **Today's Progress** :
 1. CWD section 11
