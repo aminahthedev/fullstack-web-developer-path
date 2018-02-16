@@ -2,6 +2,23 @@
 
 ***
 
+------
+
+**Target** : ***Code Everyday of My Life While Learning and Blogging About It***
+
+**Date** : 16 February 2018
+
+Day: 32-36
+------
+**Today's Progress** :
+
+**Thoughts:**
+
+Over the last few weeks I have been super busy with job stuff, interviews, code samples, etc. It's not an excuse, but I haven't been able to keep up with logging my progress. It's okay, I coded most days so that's what matters I guess.
+
+A lot is going on, I have a lot of important decisions to make, but with all this job hunting, I've been thrown off my path and need to figure out a way back. So today I am refiguring out where I want to focus my attention. I may just go back to Udacity and CWD and finish those out so I can be done....we shall see
+
+**Link(s) to work**:
 
 ------
 
